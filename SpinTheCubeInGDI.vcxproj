@@ -98,12 +98,12 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">
-    <LibraryPath>C:\Program Files\Arm Performance Libraries\armpl_24.04\lib;$(LibraryPath)</LibraryPath>
-    <IncludePath>C:\Program Files\Arm Performance Libraries\armpl_24.04\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files\Arm Performance Libraries\armpl_24.10\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Program Files\Arm Performance Libraries\armpl_24.10\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|ARM64'">
-    <LibraryPath>C:\Program Files\Arm Performance Libraries\armpl_24.04\lib;$(LibraryPath)</LibraryPath>
-    <IncludePath>C:\Program Files\Arm Performance Libraries\armpl_24.04\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files\Arm Performance Libraries\armpl_24.10\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Program Files\Arm Performance Libraries\armpl_24.10\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
